@@ -1,0 +1,6 @@
+framework module Pods_SwiftSignatureViewWithHTMLTests {
+  umbrella header "Pods-SwiftSignatureViewWithHTMLTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
