@@ -1,11 +1,11 @@
 PODS:
-  - SwiftSignatureView (2.0.0)
+  - SwiftSignatureView (2.0.2)
 
 DEPENDENCIES:
   - SwiftSignatureView
 
 SPEC CHECKSUMS:
-  SwiftSignatureView: aacf6b4fb9108d79b76af1d3f23a50ff50a0a98f
+  SwiftSignatureView: f9ea7317c6c5520b21190e499fbb859ae85c4e55
 
 PODFILE CHECKSUM: f83797d66cbe9ae9234face8737c0b8cf1f717a1
 

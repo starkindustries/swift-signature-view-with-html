@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 48;
+	objectVersion = 46;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -35,7 +35,7 @@
 /* Begin PBXFileReference section */
 		015795AE2BEFD35FC1FACDE0A1073F77 /* Pods-SwiftSignatureViewWithHTML-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-SwiftSignatureViewWithHTML-frameworks.sh"; sourceTree = "<group>"; };
 		06EC7983B91875F5330476643DAB7413 /* Pods-SwiftSignatureViewWithHTML-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-SwiftSignatureViewWithHTML-resources.sh"; sourceTree = "<group>"; };
-		0BD8B558B7A60D40A7F8FC4524BDE0E9 /* SwiftSignatureView.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = SwiftSignatureView.modulemap; sourceTree = "<group>"; };
+		0BD8B558B7A60D40A7F8FC4524BDE0E9 /* SwiftSignatureView.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = SwiftSignatureView.modulemap; sourceTree = "<group>"; };
 		1068EDEEAC2A409E345245011461B289 /* Pods-SwiftSignatureViewWithHTMLTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SwiftSignatureViewWithHTMLTests.release.xcconfig"; sourceTree = "<group>"; };
 		1BD89949BF67C3BD239FA099EC31A66F /* Pods-SwiftSignatureViewWithHTML.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SwiftSignatureViewWithHTML.debug.xcconfig"; sourceTree = "<group>"; };
 		1C8689D31EB63599FCD12105BD748A0D /* SwiftSignatureView-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "SwiftSignatureView-dummy.m"; sourceTree = "<group>"; };
@@ -44,29 +44,29 @@
 		21D3C952CA3B44251F2F35FC170192FF /* Pods-SwiftSignatureViewWithHTMLTests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-SwiftSignatureViewWithHTMLTests-frameworks.sh"; sourceTree = "<group>"; };
 		25A45612FBAF221F205F5CFB9CCEDA66 /* Pods-SwiftSignatureViewWithHTML-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-SwiftSignatureViewWithHTML-acknowledgements.markdown"; sourceTree = "<group>"; };
 		3B4437383BB436E5555C657C07843187 /* Pods-SwiftSignatureViewWithHTMLUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SwiftSignatureViewWithHTMLUITests.debug.xcconfig"; sourceTree = "<group>"; };
-		3C07664FDE443D8EFD5F527E8E2611FF /* Pods_SwiftSignatureViewWithHTMLUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_SwiftSignatureViewWithHTMLUITests.framework; path = "Pods-SwiftSignatureViewWithHTMLUITests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3C07664FDE443D8EFD5F527E8E2611FF /* Pods_SwiftSignatureViewWithHTMLUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SwiftSignatureViewWithHTMLUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		42BDD1F72E0BD9147A34E6D5951DD849 /* Pods-SwiftSignatureViewWithHTML-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-SwiftSignatureViewWithHTML-umbrella.h"; sourceTree = "<group>"; };
 		44C96C91468D199BF4391DFC811E5DAD /* SwiftSignatureView-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SwiftSignatureView-prefix.pch"; sourceTree = "<group>"; };
-		4961AB719D68BB1C54FE76E17EB16F33 /* Pods-SwiftSignatureViewWithHTMLUITests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-SwiftSignatureViewWithHTMLUITests.modulemap"; sourceTree = "<group>"; };
+		4961AB719D68BB1C54FE76E17EB16F33 /* Pods-SwiftSignatureViewWithHTMLUITests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-SwiftSignatureViewWithHTMLUITests.modulemap"; sourceTree = "<group>"; };
 		4F69A4A36B85728C704EA41D689E3326 /* Pods-SwiftSignatureViewWithHTMLUITests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-SwiftSignatureViewWithHTMLUITests-dummy.m"; sourceTree = "<group>"; };
-		51F54D49B42F85290570D4B54CA81F3E /* Pods_SwiftSignatureViewWithHTML.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_SwiftSignatureViewWithHTML.framework; path = "Pods-SwiftSignatureViewWithHTML.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		51F54D49B42F85290570D4B54CA81F3E /* Pods_SwiftSignatureViewWithHTML.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SwiftSignatureViewWithHTML.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		5A5C91FB2F5A669670BFC26E3CDD9AD0 /* Pods-SwiftSignatureViewWithHTMLTests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-SwiftSignatureViewWithHTMLTests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		6385DC08BC7971536B3AFA4D63BF9BB1 /* SwiftSignatureView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SwiftSignatureView.swift; path = Pod/Classes/SwiftSignatureView.swift; sourceTree = "<group>"; };
 		6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		6F5EE783F572AB4AC5CF76011FFCF465 /* SwiftSignatureView.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SwiftSignatureView.xcconfig; sourceTree = "<group>"; };
 		82EEC1E15336E012861B33DF0348C9A2 /* Pods-SwiftSignatureViewWithHTMLUITests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-SwiftSignatureViewWithHTMLUITests-acknowledgements.plist"; sourceTree = "<group>"; };
-		83B56597602404CA6D78512FB3F0DE4E /* Pods-SwiftSignatureViewWithHTMLTests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-SwiftSignatureViewWithHTMLTests.modulemap"; sourceTree = "<group>"; };
-		872D0D22A68F4AA70E6AFDD9D54FA447 /* Pods_SwiftSignatureViewWithHTMLTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_SwiftSignatureViewWithHTMLTests.framework; path = "Pods-SwiftSignatureViewWithHTMLTests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		83B56597602404CA6D78512FB3F0DE4E /* Pods-SwiftSignatureViewWithHTMLTests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-SwiftSignatureViewWithHTMLTests.modulemap"; sourceTree = "<group>"; };
+		872D0D22A68F4AA70E6AFDD9D54FA447 /* Pods_SwiftSignatureViewWithHTMLTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SwiftSignatureViewWithHTMLTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		97E49EDD61EB2D07BC1B9851C9176598 /* Pods-SwiftSignatureViewWithHTMLUITests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-SwiftSignatureViewWithHTMLUITests-resources.sh"; sourceTree = "<group>"; };
 		9D4D8E90DC95A31AA2474318308ED064 /* Pods-SwiftSignatureViewWithHTML-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-SwiftSignatureViewWithHTML-acknowledgements.plist"; sourceTree = "<group>"; };
 		9EFFDAB74AF0EC4F3FC8BB70302E8A0C /* Pods-SwiftSignatureViewWithHTMLTests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-SwiftSignatureViewWithHTMLTests-dummy.m"; sourceTree = "<group>"; };
 		A62D0599FBF48ED6725A103F72FF944D /* Pods-SwiftSignatureViewWithHTMLUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SwiftSignatureViewWithHTMLUITests.release.xcconfig"; sourceTree = "<group>"; };
 		A6F36F0E1FD7F207BC35834FEA942F9A /* Pods-SwiftSignatureViewWithHTMLUITests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-SwiftSignatureViewWithHTMLUITests-umbrella.h"; sourceTree = "<group>"; };
 		A74AB7B094457EA0F16BAD2EA64DE345 /* Pods-SwiftSignatureViewWithHTML-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-SwiftSignatureViewWithHTML-dummy.m"; sourceTree = "<group>"; };
-		AF44046F1E84C348BBECFB3B0CF7B48B /* SwiftSignatureView.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = SwiftSignatureView.framework; path = SwiftSignatureView.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		AF44046F1E84C348BBECFB3B0CF7B48B /* SwiftSignatureView.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SwiftSignatureView.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		B41723F62BC53B5A463FAC4372EF138D /* Pods-SwiftSignatureViewWithHTMLUITests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-SwiftSignatureViewWithHTMLUITests-frameworks.sh"; sourceTree = "<group>"; };
-		B5649B055D2BB48A5F4D93E860BB868A /* Pods-SwiftSignatureViewWithHTML.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-SwiftSignatureViewWithHTML.modulemap"; sourceTree = "<group>"; };
+		B5649B055D2BB48A5F4D93E860BB868A /* Pods-SwiftSignatureViewWithHTML.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-SwiftSignatureViewWithHTML.modulemap"; sourceTree = "<group>"; };
 		BA04C5A1B0B2C6B8D4A9E99FF7D8D4E3 /* Pods-SwiftSignatureViewWithHTMLTests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-SwiftSignatureViewWithHTMLTests-acknowledgements.plist"; sourceTree = "<group>"; };
 		BD68F524BE5A148DB566C755C5114038 /* Pods-SwiftSignatureViewWithHTMLTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SwiftSignatureViewWithHTMLTests.debug.xcconfig"; sourceTree = "<group>"; };
 		BD9E20D3715A22D348C2B978C325E6EC /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -189,7 +189,6 @@
 				6385DC08BC7971536B3AFA4D63BF9BB1 /* SwiftSignatureView.swift */,
 				2C0E06E084A7491C3B6B80F94A29AAC1 /* Support Files */,
 			);
-			name = SwiftSignatureView;
 			path = SwiftSignatureView;
 			sourceTree = "<group>";
 		};
@@ -362,7 +361,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0830;
-				LastUpgradeCheck = 0700;
+				LastUpgradeCheck = 0940;
 			};
 			buildConfigurationList = 2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -542,6 +541,7 @@
 				CLANG_WARN_BOOL_CONVERSION = YES;
 				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				CLANG_WARN_EMPTY_BODY = YES;
@@ -549,6 +549,7 @@
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
@@ -579,6 +580,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = NO_SIGNING/;
 				STRIP_INSTALLED_PRODUCT = NO;
+				SWIFT_COMPILATION_MODE = wholemodule;
 				SYMROOT = "${SRCROOT}/../build";
 			};
 			name = Release;
@@ -693,6 +695,7 @@
 				CLANG_WARN_BOOL_CONVERSION = YES;
 				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				CLANG_WARN_EMPTY_BODY = YES;
@@ -700,6 +703,7 @@
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
